@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Iain</h1>
+<h1 align="center">Hi, I'm Iain</h1>
 <h3 align="center">A self taught front-end developer from the UK</h3>
 
 - 🌱 I’m currently learning **NodeJS, Express and MongoDB**
